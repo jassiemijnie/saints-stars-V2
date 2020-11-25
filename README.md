@@ -16,7 +16,7 @@ Dit vond ik lastig:
 - Mijn Flexbox werkt niet in mijn eigen code, iets wat ik heel raar vind en ik zou niet weten wat ik verkeerd heb gedaan waardoor die niet werkt
 
 # screenshots
-
+- hoe voeg ik screenshots aan een read me toe? dit lukt mij niet
 
 # agenda team
 50 min voor het gesprek
