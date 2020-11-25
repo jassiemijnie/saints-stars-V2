@@ -5,7 +5,7 @@ Ik moet mijn code nog door de valitatie gooien
 # stand van zaken
 Dit ging goed:
 - HTML
-- Opdrachten tijdens de les (positioneren en flexbox, okal ging dit ook niet altijd soepel)
+- Opdrachten tijdens de les (positioneren en flexbox, okal ging dit ook niet altijd soepel. Het voelde wel fijn om daar even een lichtpuntje te hebben)
 - content verzamelen van de website die ik ga namaken
 - Breakdownschets heeft mij heel erg geholpen met hoe ik mijn website nou moest opzetten
 
