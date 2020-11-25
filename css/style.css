@@ -1,0 +1,96 @@
+/* even wat standaard css dingetjes */
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Titillium Web', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    padding: 0; margin: 0;
+    text-align: center;
+    width: 100vw;
+}
+
+h1, h2, h3 {
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+p {
+    text-align: center;
+}
+
+img, video {
+    width: 100%;
+}
+
+video {
+    position: relative;
+    z-index: -1;
+}
+
+/* Header */
+
+header div{
+position: absolute;
+width: 100vw;
+padding: 1em;
+}
+
+header img {
+    margin-top: 9%;
+    text-align:center;
+    width: 40%;
+}
+
+header h1 {
+font-weight: 600;
+text-transform: uppercase;
+font-size: 1.6em;
+}
+
+header p,h1 {
+    color:white;
+}
+
+
+
+/* CTA */
+
+.button1 {
+    background-color: cornflowerblue;
+    border-radius: 1em;
+    width: 10em;
+    margin: auto; padding: .15em;
+    margin-top: 6%;
+
+}
+
+header p {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+/* First timer & holy workouts */
+
+#firsttimer {
+    margin: 1.5em 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+#firsttimer h3:first-of-type {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+
+    position: absolute;
+}
+
+#firsttimer img {
+    max-width: 500px;
+    margin: auto
+}
