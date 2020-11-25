@@ -11,9 +11,10 @@ Dit ging goed:
 
 
 Dit vond ik lastig:
-- Responsive design
+- Responsive design, ik heb mijn code een aantal keer moeten omgooien
 - Moeite met parent en child elementen, als ik iets in css doe op welke heeft die dan precies effect
 - Mijn Flexbox werkt niet in mijn eigen code, iets wat ik heel raar vind en ik zou niet weten wat ik verkeerd heb gedaan waardoor die niet werkt
+- onderscheid maken: gebruik ik voor responsive design allemaal de zelfde foto's en videos, ook als ze een andere viewport hebben (bijvoorbeeld een langwerpige video voor mobiel en een brede video voor web)
 
 # screenshots
 - hoe voeg ik screenshots aan een read me toe? dit lukt mij niet
